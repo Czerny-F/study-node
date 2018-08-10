@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/Czerny-F/study-node/issues"
   },
-  "homepage": "https://github.com/Czerny-F/study-node#readme"
+  "homepage": "https://github.com/Czerny-F/study-node#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
