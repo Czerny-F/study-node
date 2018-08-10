@@ -12,6 +12,8 @@
   },
   "homepage": "https://github.com/Czerny-F/study-node#readme",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
     "gulp": "^3.9.1"
   }
 }
