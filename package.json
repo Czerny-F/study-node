@@ -19,6 +19,8 @@
     "webpack-cli": "^3.1.0"
   },
   "dependencies": {
+    "element-ui": "^2.4.6",
+    "lodash": "^4.17.10",
     "vue": "^2.5.17"
   }
 }
